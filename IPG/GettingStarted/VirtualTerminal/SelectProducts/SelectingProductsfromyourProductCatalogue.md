@@ -25,7 +25,7 @@ author: jill.oliver@firstdata.com
 
 <span>Once you've completed your product selections, click on the <em>POS Main</em> button to return to the <em>Virtual Terminal</em> main page, where you can enter payment and contact information for this order.<br /> A table should appear at the top of the page showing all the products selected for this order along with the subtotal of the order. </span>
 
-<img alt="Product Selected From the Product Catalogue" data-align="center" data-entity-type="file" data-entity-uuid="2fa099d4-b2ee-4c5b-9ce1-184a024176b3" height="398" src="/sites/default/files/inline-images/Product%20catalogue.png" width="635" /> 
+<img alt="Product Selected From the Product Catalogue" data-align="center" data-entity-type="file" data-entity-uuid="2fa099d4-b2ee-4c5b-9ce1-184a024176b3" height="398" src="Product%20catalogue.png" width="635" /> 
 
 _<span>Virtual Terminal: Products selected from Product Catalogue</span>_
 

@@ -7,7 +7,7 @@ author: jill.oliver@firstdata.com
 
 <span>A graphic for each card type that has been setup for your store is shown.</span>
 
-<img alt="Card Details" data-align="center" data-entity-type="file" data-entity-uuid="3cb1eba1-fccc-4ef6-8dd8-c3b5e3a4f498" height="254" src="/sites/default/files/inline-images/Card%20info.png" width="633" /> 
+<img alt="Card Details" data-align="center" data-entity-type="file" data-entity-uuid="3cb1eba1-fccc-4ef6-8dd8-c3b5e3a4f498" height="254" src="Card%20info.png" width="633" /> 
 
 <span><em><span>Virtual Terminal: Card data input fields<span>&nbsp;</span></span></em></span>
 

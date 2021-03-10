@@ -7,7 +7,7 @@ If you want to enter transactions manually, e.g. to take orders via phone or to 
 
 <span>The <em>Virtual Terminal</em> is the main page which you will use for all your Sale, Authorise Only as well as Forced Ticket transactions and for creating Payment URLs that allow consumers to make the payment at a later point.</span>
 
-<img alt="Virtual Terminal" data-align="center" data-entity-type="file" data-entity-uuid="81c50481-f29d-4afd-91d8-d61161f32bd7" height="95" src="/sites/default/files/inline-images/Virtual%20Terminal.png" width="586" /> 
+<img alt="Virtual Terminal" data-align="center" data-entity-type="file" data-entity-uuid="81c50481-f29d-4afd-91d8-d61161f32bd7" height="95" src="Virtual%20Terminal.png" width="586" /> 
 
 <span>Since some of the other types of card transactions such as Completion and Return, need to look in the database to get order information, they have their own pages. Credit is a special transaction that not all users have access to, so it also has its own page.</span>
 

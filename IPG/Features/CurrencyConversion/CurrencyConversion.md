@@ -8,7 +8,7 @@ author: adriana.vas@firstdata.de
 <span lang="EN-US"><span lang="EN-US">If you use hosted forms for the payment process in your webshop and your Store has been activated for this product option, a currency choice is automatically provided to your customers if the card they use has been issued in a country with a currency that is different to your default currency.</span></span>  
 &nbsp;
 
-<img alt="hosted payment page with DCC" data-align="center" data-entity-type="file" data-entity-uuid="878814f6-f71f-4dd7-9915-675fc8944f26" height="317" src="/sites/default/files/inline-images/image2018-4-16%2017_20_55.png" width="558" /> 
+<img alt="hosted payment page with DCC" data-align="center" data-entity-type="file" data-entity-uuid="878814f6-f71f-4dd7-9915-675fc8944f26" height="317" src="image2018-4-16%2017_20_55.png" width="558" /> 
 
 &nbsp;
 

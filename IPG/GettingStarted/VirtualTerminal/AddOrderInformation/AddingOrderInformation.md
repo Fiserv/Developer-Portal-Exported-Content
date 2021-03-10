@@ -7,7 +7,7 @@ author: jill.oliver@firstdata.com
 
 <span>You must fill out all required fields. To enter <em>Order Information</em>, follow the steps below.</span>
 
-<img alt="Order Information" data-align="center" data-entity-type="file" data-entity-uuid="3422b2f4-229b-4d9c-baea-9fcc84a863d6" height="245" src="/sites/default/files/inline-images/Order%20info.png" width="655" /> 
+<img alt="Order Information" data-align="center" data-entity-type="file" data-entity-uuid="3422b2f4-229b-4d9c-baea-9fcc84a863d6" height="245" src="Order%20info.png" width="655" /> 
 
 **_<span>Order Number (optional)</span>_**
 

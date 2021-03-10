@@ -34,7 +34,7 @@ Choose the type of your project to get quickly to what you need.
     <tr>
       <td>
         <p>
-          <a href="http://test-ndpfdc.pantheonsite.io/org/gateway/node/139"><img alt="MOTO" data-entity-type="file" data-entity-uuid="8401f1c8-3b03-47c4-b35e-3a0ea6f3c120" src="/sites/default/files/inline-images/MOTO_0.png" /></a>
+          <a href="http://test-ndpfdc.pantheonsite.io/org/gateway/node/139"><img alt="MOTO" data-entity-type="file" data-entity-uuid="8401f1c8-3b03-47c4-b35e-3a0ea6f3c120" src="MOTO_0.png" /></a>
         </p>
       </td>
       

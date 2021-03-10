@@ -3,7 +3,7 @@ title: Google Pay
 author: lovenish.sidana@firstdata.com
 ---
 
-<img alt="Google Pay logo" data-align="left" data-entity-type="file" data-entity-uuid="36a5cfb6-5b57-4386-92a9-cab37da62e49" height="63" src="/sites/default/files/inline-images/Google%20Pay%20logo.png" width="103" />
+<img alt="Google Pay logo" data-align="left" data-entity-type="file" data-entity-uuid="36a5cfb6-5b57-4386-92a9-cab37da62e49" height="63" src="Google%20Pay%20logo.png" width="103" />
 
 &nbsp;
 
@@ -13,7 +13,7 @@ Google Pay is the fast, simple way to pay in millions of places – online, in s
 
 <span><span><strong><span><span><span><span>User Action:</span></span></span></span></strong><span><span><span><span> the buyer taps the "Google Pay" button, and then selects a payment method an</span></span></span></span><span><span><span><span>d shipping address.</span></span></span></span></span></span>
 
-<span><span><strong><span><span><span><span>If the purchase originates from a third-party site</span></span></span></span></strong><img alt="Google Pay" data-align="right" data-entity-type="file" data-entity-uuid="9e0eb0b7-5aab-4567-b52d-7073ec5d8e0f" src="/sites/default/files/inline-images/Google%20Pay_0.png" /></span></span>
+<span><span><strong><span><span><span><span>If the purchase originates from a third-party site</span></span></span></span></strong><img alt="Google Pay" data-align="right" data-entity-type="file" data-entity-uuid="9e0eb0b7-5aab-4567-b52d-7073ec5d8e0f" src="Google Pay_0.png" /></span></span>
 
   1. <span><span><span><span><span><span><span><span>The merchant/client server issues a credential request with the Merchant ID and Processor Name as First Data to Google.</span></span></span></span></span></span></span></span>
   2. <span><span><span><span><span><span><span><span>Google returns response with encrypted payment credentials signed with the First Data key to the merchant server.</span></span></span></span></span></span></span></span>
